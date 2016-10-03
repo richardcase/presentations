@@ -1,0 +1,9 @@
+---
+layout: slides
+title:  "Docker 101"
+description: "An introduction to docker"
+date:   2016-10-03 15:09:57 +0100
+categories: docker
+---
+
+{{ site.slides | where: "slide-id", "docker101-welcome" | content }}

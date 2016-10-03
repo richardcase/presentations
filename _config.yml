@@ -1,0 +1,13 @@
+title: Presentations
+email: richard.case@outlook.com
+description: A number of presentations
+baseurl: "/presentations" # the subpath of your site, e.g. /blog
+url: "https://richardcase.github.io" # the base hostname & protocol for your site
+github_username:  richardcase
+
+collections:
+  - slides
+
+# Build settings
+markdown: kramdown
+theme: minima
